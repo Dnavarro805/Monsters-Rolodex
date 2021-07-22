@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Monsters-Rolodex/static/css/main.d5d35819.chunk.css",
-    "main.js": "/Monsters-Rolodex/static/js/main.9ab615b2.chunk.js",
-    "main.js.map": "/Monsters-Rolodex/static/js/main.9ab615b2.chunk.js.map",
-    "runtime-main.js": "/Monsters-Rolodex/static/js/runtime-main.41e7268a.js",
-    "runtime-main.js.map": "/Monsters-Rolodex/static/js/runtime-main.41e7268a.js.map",
+    "main.css": "/Monsters-Rolodex/static/css/main.b598ff69.chunk.css",
+    "main.js": "/Monsters-Rolodex/static/js/main.1c24c2a1.chunk.js",
+    "main.js.map": "/Monsters-Rolodex/static/js/main.1c24c2a1.chunk.js.map",
+    "runtime-main.js": "/Monsters-Rolodex/static/js/runtime-main.ae3efc99.js",
+    "runtime-main.js.map": "/Monsters-Rolodex/static/js/runtime-main.ae3efc99.js.map",
     "static/js/2.aaf94355.chunk.js": "/Monsters-Rolodex/static/js/2.aaf94355.chunk.js",
     "static/js/2.aaf94355.chunk.js.map": "/Monsters-Rolodex/static/js/2.aaf94355.chunk.js.map",
-    "static/js/3.872a4cf1.chunk.js": "/Monsters-Rolodex/static/js/3.872a4cf1.chunk.js",
-    "static/js/3.872a4cf1.chunk.js.map": "/Monsters-Rolodex/static/js/3.872a4cf1.chunk.js.map",
+    "static/js/3.aab93fdf.chunk.js": "/Monsters-Rolodex/static/js/3.aab93fdf.chunk.js",
+    "static/js/3.aab93fdf.chunk.js.map": "/Monsters-Rolodex/static/js/3.aab93fdf.chunk.js.map",
     "index.html": "/Monsters-Rolodex/index.html",
-    "static/css/main.d5d35819.chunk.css.map": "/Monsters-Rolodex/static/css/main.d5d35819.chunk.css.map",
+    "static/css/main.b598ff69.chunk.css.map": "/Monsters-Rolodex/static/css/main.b598ff69.chunk.css.map",
     "static/js/2.aaf94355.chunk.js.LICENSE.txt": "/Monsters-Rolodex/static/js/2.aaf94355.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.41e7268a.js",
+    "static/js/runtime-main.ae3efc99.js",
     "static/js/2.aaf94355.chunk.js",
-    "static/css/main.d5d35819.chunk.css",
-    "static/js/main.9ab615b2.chunk.js"
+    "static/css/main.b598ff69.chunk.css",
+    "static/js/main.1c24c2a1.chunk.js"
   ]
 }
